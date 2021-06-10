@@ -1,2 +1,16 @@
-# laboratory-package-template
-Content and Structure of Laboratory Packages for Software Engineering Experiments
+# Content and Structure of Laboratory Packages for Software Engineering Experiments
+Authors: Martin Solari, Sira Vegas, Natalia Juristo
+
+## Structure of the LP proposal
+
+Our LP proposal is divided into modules. We believe that researchers all have very diverse information needs. Each researcher has a different background and distinct experience in experimentation. We have found that an experiment is usually run by several researchers who play different roles. We believe that the structure of a LP should enable each researcher to easily identify the key information for the task that he or she is performing without having to leaf through pages of information that has nothing to do with the responsibilities of his or her role. The aim of dividing the LP into modules is to cover all the phases of the experimental process and meet the information needs of different researchers depending on what activity of the experimentation process they are to perform in a manner that is clear to all LP users.
+
+The modules constitute separate parts of the document. However, they are explicitly linked to each other so that anyone who wants to read all the documentation instead of focusing on a particular activity will find it easy to navigate from one to another. In our proposal, a module is a structure that is used separately for some experimental activity. For example, the replicating experimenters use one module to train subjects, another to adapt the design and another to record the results of the replication. We have tried to make each module as self-contained as possible in order to satisfy information needs without the researcher having to resort to other parts of the documentation. If necessary, the modules are further divided in order to include more specific information on diverse subtasks. For example, the experiment module is subdivided into sections on experimental design, session operation and data analysis.
+
+We believe that running a replication should also imply upgrading the LP to integrate the new piece of generated evidence that will help to mature the knowledge pursued by the family of experiments (and supported by the LP). After a replication, it should at least be added to the experiment log generating a new module containing the detailed description of the replication and its results. As a result of the replication, however, observations are often made and lessons learned about the experiment itself, the support materials or even the theory. Therefore, a replication may generate a new version of the LP modules containing this information. Note that the generation of new versions of modules should never result in the replacement of earlier versions, that is, the package also acts as a historical record.
+
+Figure 1 shows the main structure of the LP with the name of each module. The directed lines denote the dependencies between modules. This entire structure is the starting point. Elements can then be added to the LP to mitigate the experimental incidents that we have identified. We have tried to design a preliminary structure that is as detailed as possible to cover the information needs and experimentation process activities. Each module is subdivided into sections. These sections provide help for mitigating the missing information detected in the incidents of a particular experimental subtask.
+
+
+
+
