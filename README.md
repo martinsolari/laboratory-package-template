@@ -1,6 +1,8 @@
 # Content and Structure of Laboratory Packages for Software Engineering Experiments
 Authors: Martin Solari, Sira Vegas, Natalia Juristo
 
+https://doi.org/10.1016/j.infsof.2017.12.016
+
 ## Structure of the LP proposal
 
 Our LP proposal is divided into modules. We believe that researchers all have very diverse information needs. Each researcher has a different background and distinct experience in experimentation. We have found that an experiment is usually run by several researchers who play different roles. We believe that the structure of a LP should enable each researcher to easily identify the key information for the task that he or she is performing without having to leaf through pages of information that has nothing to do with the responsibilities of his or her role. The aim of dividing the LP into modules is to cover all the phases of the experimental process and meet the information needs of different researchers depending on what activity of the experimentation process they are to perform in a manner that is clear to all LP users.
