@@ -11,6 +11,7 @@ We believe that running a replication should also imply upgrading the LP to inte
 
 Figure 1 shows the main structure of the LP with the name of each module. The directed lines denote the dependencies between modules. This entire structure is the starting point. Elements can then be added to the LP to mitigate the experimental incidents that we have identified. We have tried to design a preliminary structure that is as detailed as possible to cover the information needs and experimentation process activities. Each module is subdivided into sections. These sections provide help for mitigating the missing information detected in the incidents of a particular experimental subtask.
 
+![Figure 1](./lpstructure.png "Figure 1")
 
 The Introduction to the LP module contains information about the LP itself. This module is at a different level of abstraction to the other modules. Whereas the other modules refer to the experiment, this module refers to the actual LP. The Introduction module is designed to provide the LP user with information about the structure and use of the LP. The LP users may be researchers intending to replicate an experiment or researchers setting out to package an experiment for replication by others. The Introduction module denotes the aims of the instrument (LP), possible uses and how it can be enriched. It also includes the suggested communication instances and the particulars of the researchers who should be contacted in order to run a replication.
 
@@ -50,6 +51,7 @@ The specific components of each improvement are added to the packaging checklist
 
 To help researchers apply the LP instantiation to different experiments, we generated a LP instantiation procedure. The aim of the procedure is to improve instantiation by providing support for processing the available materials (that may or may not be part of a pre-existing LP), as well as eliciting any tacit knowledge that needs to be specified. Figure 2 outlines the LP instantiation procedure.
 
+![Figure 2](./instproc.png "Figure 2")
 
 The main sources for instantiating a LP are the existing documents related to the experiment and tacit knowledge. The instantiation procedure relies on two tools that are part of the LP proposal: a LP template and a checklist of changes. After a number of intermediate results (restructured documents, list of missing components and new components), the end product is a LP instantiated for a specific experiment.
 
