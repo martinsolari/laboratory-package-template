@@ -30,7 +30,7 @@ Each module of the proposed LP structure is further divided in section and subse
 
 For using the LP template, we suggest to start with simple instantiations of the core modules. The Experiment module aims to capture the most basic information needed to replicate an experiment. The other core modules: Theory, Training, History, could be used when needed to capture additional knowledge or when the content of the Experiment module is larger. These modules could be constructed after the initial effort to capture the baseline experiment. The Training module is aimed to aggregate all the materials used in training. We have found that in academic settings the experiments are usually conducted within a course and it's common that educational materials (both for the student and the teacher) add an important value for the replicating researcher to provide context.
 
-Laboratory Package template document (Microsoft Word format)
+[Laboratory Package template document (Microsoft Word format)](./LaboratoryPackage_template.docx) 
 
 ## Tool: Packaging checklist
 
@@ -44,7 +44,7 @@ Experimental research process support
 Structural and usability improvement
 The specific components of each improvement are added to the packaging checklist to assure that the research can easily check the instantiated LP. Some of the improvements are already addressed in the modular nature or in specific sections of the LP template.  However, the packaging checklist could be used check and improve the first draft of the LP.
 
-Packaging checklist document (Microsoft Word format)
+[Packaging checklist document (Microsoft Word format)](./Packaging_checklist.docx)
 
 ## Instantiation procedure
 
