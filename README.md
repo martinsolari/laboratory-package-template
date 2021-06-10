@@ -46,4 +46,12 @@ The specific components of each improvement are added to the packaging checklist
 
 Packaging checklist document (Microsoft Word format)
 
+## Instantiation procedure
+
+To help researchers apply the LP instantiation to different experiments, we generated a LP instantiation procedure. The aim of the procedure is to improve instantiation by providing support for processing the available materials (that may or may not be part of a pre-existing LP), as well as eliciting any tacit knowledge that needs to be specified. Figure 2 outlines the LP instantiation procedure.
+
+
+The main sources for instantiating a LP are the existing documents related to the experiment and tacit knowledge. The instantiation procedure relies on two tools that are part of the LP proposal: a LP template and a checklist of changes. After a number of intermediate results (restructured documents, list of missing components and new components), the end product is a LP instantiated for a specific experiment.
+
+As any knowledge gathering procedure, the activities don't necessarily occur sequentially. However, starting with the analysis of existing documents and checking the completeness against the proposed LP template, facilitate the identification of tacit knowledge that should be gathered. This activity involves interacting with researchers who may have that knowledge and producing new components for the LP. The checklist of changes is an additional tool for verification of the outcome, and may require redoing previous activities of the procedure.
 
